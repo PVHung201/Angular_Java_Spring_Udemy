@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-boot-ecommerce">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spring-boot-ecommerce.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
